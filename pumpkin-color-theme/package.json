@@ -1,0 +1,27 @@
+{
+    "name": "pumpkin-color-theme",
+    "displayName": "pumpkin-color-theme",
+    "description": "IvanPerez9's custom VSCode theme",
+    "publisher":"IvanPerez9",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/IvanPerez9/pumpkin-theme-vscode"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pumpkin-color-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pumpkin-color-theme-color-theme.json"
+            }
+        ]
+    }
+}
