@@ -2,7 +2,7 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/IvanPerez9.pumpkin-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=IvanPerez9.pumpkin-color-theme)
 
-![Preview](./themeImg.png)
+![Preview](https://raw.githubusercontent.com/IvanPerez9/pumpkin-theme-vscode/main/pumpkin-color-theme/themeImg.png)
 
 [Link to vscode marketplace](https://marketplace.visualstudio.com/items?itemName=IvanPerez9.pumpkin-color-theme)
 
