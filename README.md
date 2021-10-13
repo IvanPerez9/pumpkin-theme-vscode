@@ -33,3 +33,21 @@
 This theme is new so if something is funky, please open an issue. There are many languages and parts of VS Code I don't use, so let me know!
 
 These are the things we have control over. If you would like to change something, you can either open a PR and see if I'd like it added, or override the colours in your own pumpkin-color-theme.json file.
+
+# Publish
+
+You can publish an extension using vsce with the publish command:
+
+```
+vsce publish
+```
+
+You can auto-increment an extension's version number when you publish by specifying the SemVer compatible number to increment: major, minor, or patch.
+
+Or you can also specify a complete SemVer compatible version on the command line
+
+```
+vsce publish minor
+
+vsce publish 2.0.1
+```
