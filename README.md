@@ -1,6 +1,7 @@
 # 🎃 Pumpkin Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/IvanPerez9.pumpkin-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=IvanPerez9.pumpkin-color-theme)
+[![Version](https://vsmarketplacebadge.apphb.com/version/IvanPerez9.pumpkin-color-theme.svg?color=orange)](https://marketplace.visualstudio.com/items?itemName=IvanPerez9.pumpkin-color-theme)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/IvanPerez9.pumpkin-color-theme.svg?color=blueviolet)
 
 ![Preview](https://raw.githubusercontent.com/IvanPerez9/pumpkin-theme-vscode/main/pumpkin-color-theme/themeImg.png)
 
