@@ -24,11 +24,11 @@
 
 | Colors      |  Hex                                                                       |
 | ---------- | ------------------------------------------------------------------------- |
-| Orange     | ![#f09756](https://via.placeholder.com/15/f09756/000000?text=+) `#f09756` |
-| Light Orange     | ![#f0975662](https://via.placeholder.com/15/f0975662/000000?text=+) `#f0975662` |
-| Purple     | ![#6529d1](https://via.placeholder.com/15/6529d1/000000?text=+) `#6529d1` |
-| Light Purple  | ![#a676fb](https://via.placeholder.com/15/a676fb/000000?text=+) `#a676fb` |
-| Background Purple | ![#a676fb2c](https://via.placeholder.com/15/a676fb2c/000000?text=+) `#a676fb2c` |
+| Orange     | ![#f09756](https://via.placeholder.com/15/f09756/f09756.png) `#f09756` |
+| Light Orange     | ![#f0975662](https://via.placeholder.com/15/f0975662/f0975662.png) `#f0975662` |
+| Purple     | ![#6529d1](https://via.placeholder.com/15/6529d1/6529d1.png) `#6529d1` |
+| Light Purple  | ![#a676fb](https://via.placeholder.com/15/a676fb/a676fb.png) `#a676fb` |
+| Background Purple | ![#a676fb2c](https://via.placeholder.com/15/a676fb2c/a676fb2c.png) `#a676fb2c` |
 
 # I don't like something
 
